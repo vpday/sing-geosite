@@ -9,13 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - name: Setup Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@v7
         with:
-          go-version: ^1.22
+          go-version: '1.26'
       - name: Build geosite
         id: build
         run: |
@@ -25,29 +25,3 @@ jobs:
         run: .github/release-rule-set.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate sha256 hash
-        if: steps.build.outputs.skip != 'true'
-        run: |
-          sha256sum geosite.db > geosite.db.sha256sum
-          sha256sum geosite-cn.db > geosite-cn.db.sha256sum
-      - name: Release release branch
-        if: steps.build.outputs.skip != 'true'
-        run: .github/release-branch.sh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: dev-drprasad/delete-older-releases@v0.3.2
-        if: steps.build.outputs.skip != 'true'
-        with:
-          keep_latest: 10
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Release geosite
-        if: steps.build.outputs.skip != 'true'
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: ${{ steps.build.outputs.tag }}
-          files: |
-            geosite.db
-            geosite.db.sha256sum
-            geosite-cn.db
-            geosite-cn.db.sha256sum
