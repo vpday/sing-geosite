@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "mox.moe",
+        "vol.moe"
+      ],
+      "domain_suffix": [
+        ".mox.moe",
+        ".vol.moe"
+      ]
+    }
+  ]
+}

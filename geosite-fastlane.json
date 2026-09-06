@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "fastlane.ci",
+        "fastlane.tools"
+      ],
+      "domain_suffix": [
+        ".fastlane.ci",
+        ".fastlane.tools"
+      ]
+    }
+  ]
+}
