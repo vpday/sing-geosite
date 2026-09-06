@@ -1,0 +1,21 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "hero.com",
+        "heroesports.com",
+        "herogame.com",
+        "shyxhy.com",
+        "yingxiong.com"
+      ],
+      "domain_suffix": [
+        ".hero.com",
+        ".heroesports.com",
+        ".herogame.com",
+        ".shyxhy.com",
+        ".yingxiong.com"
+      ]
+    }
+  ]
+}

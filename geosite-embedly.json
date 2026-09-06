@@ -1,0 +1,17 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "embed.ly",
+        "embedly.com",
+        "playerjs.io"
+      ],
+      "domain_suffix": [
+        ".embed.ly",
+        ".embedly.com",
+        ".playerjs.io"
+      ]
+    }
+  ]
+}

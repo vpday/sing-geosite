@@ -1,0 +1,16 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "java.com",
+        "java.net"
+      ],
+      "domain_suffix": [
+        ".java",
+        ".java.com",
+        ".java.net"
+      ]
+    }
+  ]
+}

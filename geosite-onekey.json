@@ -1,0 +1,18 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "onekey-asset.com",
+        "onekey.so",
+        "onekey.zendesk.com",
+        "onekeycn.com"
+      ],
+      "domain_suffix": [
+        ".onekey-asset.com",
+        ".onekey.so",
+        ".onekeycn.com"
+      ]
+    }
+  ]
+}

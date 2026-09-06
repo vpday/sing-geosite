@@ -1,0 +1,17 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "mixi.co.jp",
+        "mixi.jp",
+        "mixi.net"
+      ],
+      "domain_suffix": [
+        ".mixi.co.jp",
+        ".mixi.jp",
+        ".mixi.net"
+      ]
+    }
+  ]
+}
