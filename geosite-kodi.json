@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "kodi.tv",
+        "kodi.wiki"
+      ],
+      "domain_suffix": [
+        ".kodi.tv",
+        ".kodi.wiki"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "skillshare.com",
+      "domain_suffix": ".skillshare.com"
+    }
+  ]
+}

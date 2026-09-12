@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "decrypt.day",
+      "domain_suffix": ".decrypt.day"
+    }
+  ]
+}
