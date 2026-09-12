@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "heptio.cn",
+      "domain_suffix": ".heptio.cn"
+    }
+  ]
+}

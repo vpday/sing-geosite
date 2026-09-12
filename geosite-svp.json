@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "svp-team.com",
+      "domain_suffix": ".svp-team.com"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "ggpht.cn",
+      "domain_suffix": ".ggpht.cn"
+    }
+  ]
+}
