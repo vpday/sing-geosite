@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "mzed.com",
+      "domain_suffix": ".mzed.com"
+    }
+  ]
+}
