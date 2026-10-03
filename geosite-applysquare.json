@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "applysquare.com",
+        "applysquare.net"
+      ],
+      "domain_suffix": [
+        ".applysquare.com",
+        ".applysquare.net"
+      ]
+    }
+  ]
+}

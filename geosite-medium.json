@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "medium.com",
+        "medium.systems"
+      ],
+      "domain_suffix": [
+        ".medium.com",
+        ".medium.systems"
+      ]
+    }
+  ]
+}
