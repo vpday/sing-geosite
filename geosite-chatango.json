@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "chatango.com",
+      "domain_suffix": ".chatango.com"
+    }
+  ]
+}
