@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "apkcombo.com",
+      "domain_suffix": ".apkcombo.com"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "dandanplay.com",
+        "dandanplay.net"
+      ],
+      "domain_suffix": [
+        ".dandanplay.com",
+        ".dandanplay.net"
+      ]
+    }
+  ]
+}
