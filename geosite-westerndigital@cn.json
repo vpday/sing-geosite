@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "sandisk.cn",
+      "domain_suffix": ".sandisk.cn"
+    }
+  ]
+}
