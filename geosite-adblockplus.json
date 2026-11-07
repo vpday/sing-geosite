@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "adblockplus.org",
+      "domain_suffix": ".adblockplus.org"
+    }
+  ]
+}
