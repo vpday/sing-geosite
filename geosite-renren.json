@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "renren-inc.com",
+        "renren.com"
+      ],
+      "domain_suffix": [
+        ".renren-inc.com",
+        ".renren.com"
+      ]
+    }
+  ]
+}

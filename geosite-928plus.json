@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "928.plus",
+        "zind.cloud"
+      ],
+      "domain_suffix": [
+        ".928.plus",
+        ".zind.cloud"
+      ]
+    }
+  ]
+}

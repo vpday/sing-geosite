@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "grafana.com",
+        "grafana.net"
+      ],
+      "domain_suffix": [
+        ".grafana.com",
+        ".grafana.net"
+      ]
+    }
+  ]
+}
