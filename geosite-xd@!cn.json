@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "taptap.io",
+      "domain_suffix": ".taptap.io"
+    }
+  ]
+}

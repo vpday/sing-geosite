@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "transferwise.com",
+        "wise.com"
+      ],
+      "domain_suffix": [
+        ".transferwise.com",
+        ".wise.com"
+      ]
+    }
+  ]
+}

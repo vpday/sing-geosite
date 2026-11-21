@@ -1,0 +1,17 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "advertising.adobe.com",
+        "demdex.net",
+        "tubemogul.com"
+      ],
+      "domain_suffix": [
+        ".advertising.adobe.com",
+        ".demdex.net",
+        ".tubemogul.com"
+      ]
+    }
+  ]
+}
