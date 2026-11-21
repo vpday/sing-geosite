@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "adx.36kr.com",
+      "domain_suffix": ".adx.36kr.com"
+    }
+  ]
+}

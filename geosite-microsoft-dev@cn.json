@@ -1,0 +1,19 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "download.visualstudio.microsoft.com",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn",
+        "vscode.download.prss.microsoft.com"
+      ],
+      "domain_suffix": [
+        ".microsoftreactor.cn",
+        ".microsoftreactor.com.cn",
+        ".reactorms.com.cn"
+      ]
+    }
+  ]
+}

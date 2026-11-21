@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "ads.uc.cn",
+        "adslot.uc.cn"
+      ],
+      "domain_suffix": [
+        ".ads.uc.cn",
+        ".adslot.uc.cn"
+      ]
+    }
+  ]
+}
