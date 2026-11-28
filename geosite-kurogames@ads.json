@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "kurogames-ads.com",
+      "domain_suffix": ".kurogames-ads.com"
+    }
+  ]
+}
