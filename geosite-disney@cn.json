@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "shanghaidisneyresort.com",
+      "domain_suffix": ".shanghaidisneyresort.com"
+    }
+  ]
+}

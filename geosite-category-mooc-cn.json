@@ -1,0 +1,30 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "chinesemooc.org",
+        "cnmooc.org",
+        "icourse163.org",
+        "icourses.cn",
+        "icve.com.cn",
+        "mooc.cn",
+        "moocs.unipus.cn",
+        "opencourse.pku.edu.cn",
+        "openlearning.com",
+        "pmphmooc.com",
+        "study.163.com"
+      ],
+      "domain_suffix": [
+        ".chinesemooc.org",
+        ".cnmooc.org",
+        ".icourse163.org",
+        ".icourses.cn",
+        ".icve.com.cn",
+        ".mooc.cn",
+        ".openlearning.com",
+        ".pmphmooc.com"
+      ]
+    }
+  ]
+}

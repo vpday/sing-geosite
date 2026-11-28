@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "cnb.cool",
+        "cnb.space"
+      ],
+      "domain_suffix": [
+        ".cnb.cool",
+        ".cnb.space"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [
+        "baishan.com",
+        "baishancdnx.cn",
+        "baishancloud.com",
+        "bsclink.cn",
+        "qingcdn.com",
+        "saxyit.com",
+        "trpcdn.com",
+        "trpcdn.net",
+        "yundun.com"
+      ],
+      "domain_suffix": [
+        ".baishan.com",
+        ".baishancdnx.cn",
+        ".baishancloud.com",
+        ".bsclink.cn",
+        ".qingcdn.com",
+        ".saxyit.com",
+        ".trpcdn.com",
+        ".trpcdn.net",
+        ".yundun.com"
+      ]
+    }
+  ]
+}

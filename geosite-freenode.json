@@ -1,0 +1,9 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": "freenode.net",
+      "domain_suffix": ".freenode.net"
+    }
+  ]
+}
